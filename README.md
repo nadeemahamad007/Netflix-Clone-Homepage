@@ -25,3 +25,4 @@ This project is a clone of the Netflix homepage created using HTML and CSS. The 
 1. Clone the repository:
    ```bash
    git clone https://github.com/nadeemahamad007/Netflix-Clone-Homepage
+git clone https://github.com/nadeemahamad007/Netflix-Clone-Homepage.git
