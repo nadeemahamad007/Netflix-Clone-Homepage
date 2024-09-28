@@ -20,7 +20,7 @@ This project is a clone of the Netflix homepage created using HTML and CSS. The 
 - Flexbox and Grid for layout
 - Media queries for responsiveness
 
-## Installation
+## Clone
 
  Clone the repository:
    ```bash
